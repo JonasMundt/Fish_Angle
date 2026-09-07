@@ -4,6 +4,14 @@ Fish Angle is a hand-drawn 2D fishing game developed in Unity and C#.
 
 Catch different fish, sell your catches, upgrade your equipment and explore deeper parts of the lake where mysterious crystal creatures have begun to appear.
 
+## Screenshots
+
+![Fish Angle Gameplay](Screenshots/gameplay.png)
+
+![Crystal Zone](Screenshots/crystal-zone.png)
+
+![Seller Menu](Screenshots/seller-menu.png)
+
 ## Features
 
 - Four different fish species
