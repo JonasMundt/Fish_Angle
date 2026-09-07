@@ -40,7 +40,7 @@ Catch different fish, sell your catches, upgrade your equipment and explore deep
 
 A playable Windows build is available on itch.io:
 
-[Play Fish Angle on itch.io](DEIN-ITCH-IO-LINK)
+[Play Fish Angle on itch.io]((https://jonasmundt.itch.io/fish-angle))
 
 ## About the Project
 
