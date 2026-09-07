@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 750f92f386f4fd940b0c22283452ce0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8549558329256013978
+    second: FA_Blubberblasen1_0
+  - first:
+      213: 573203425932160678
+    second: FA_Blubberblasen1_1
+  - first:
+      213: -488571834352518940
+    second: FA_Blubberblasen1_2
+  - first:
+      213: 3160800294437709698
+    second: FA_Blubberblasen1_3
+  - first:
+      213: 7198425098875334545
+    second: FA_Blubberblasen1_4
+  - first:
+      213: -8881457155797114438
+    second: FA_Blubberblasen1_5
+  - first:
+      213: -5655845567177009056
+    second: FA_Blubberblasen1_6
+  - first:
+      213: -1456675665204976321
+    second: FA_Blubberblasen1_7
+  - first:
+      213: -5647730397078991732
+    second: FA_Blubberblasen1_8
+  - first:
+      213: 5680139136110055265
+    second: FA_Blubberblasen1_9
+  - first:
+      213: 1091570278090382483
+    second: FA_Blubberblasen1_10
+  - first:
+      213: -3379470594605463694
+    second: FA_Blubberblasen1_11
+  - first:
+      213: -7268629261596603136
+    second: FA_Blubberblasen1_12
+  - first:
+      213: 2031938893584663772
+    second: FA_Blubberblasen1_13
+  - first:
+      213: 7936480389106960128
+    second: FA_Blubberblasen1_14
+  - first:
+      213: -4289960800890059710
+    second: FA_Blubberblasen1_15
+  - first:
+      213: 9154198081764725043
+    second: FA_Blubberblasen1_16
+  - first:
+      213: 2685965430615599094
+    second: FA_Blubberblasen1_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 845
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9079c1c00226a670800000000000000
+      internalID: 8549558329256013978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 830
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae29ba9a7d64f700800000000000000
+      internalID: 573203425932160678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 823
+        width: 138
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e83826518e3839f0800000000000000
+      internalID: -488571834352518940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_3
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 825
+        width: 141
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287e8e30f1b6ddb20800000000000000
+      internalID: 3160800294437709698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 634
+        width: 123
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f68b01d71f5e360800000000000000
+      internalID: 7198425098875334545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 631
+        width: 128
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1acd4d5c9beb480800000000000000
+      internalID: -8881457155797114438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 617
+        width: 161
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06852ff2c666281b0800000000000000
+      internalID: -5655845567177009056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_7
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 607
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3560864339d8cbe0800000000000000
+      internalID: -1456675665204976321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 425
+        width: 110
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c4ee6702b3f91b0800000000000000
+      internalID: -5647730397078991732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 485
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f42aa1378e3de40800000000000000
+      internalID: 5680139136110055265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_10
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 353
+        width: 99
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c93f07269062f00800000000000000
+      internalID: 1091570278090382483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_11
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 342
+        width: 105
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277c9af3665b911d0800000000000000
+      internalID: -3379470594605463694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 514
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d468a8234a02b90800000000000000
+      internalID: -7268629261596603136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 416
+        width: 111
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd40a6578a5e23c10800000000000000
+      internalID: 2031938893584663772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 296
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00703975dda042e60800000000000000
+      internalID: 7936480389106960128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 290
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244099a716ff674c0800000000000000
+      internalID: -4289960800890059710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 286
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331162387ae3a0f70800000000000000
+      internalID: 9154198081764725043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_17
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 276
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f762da0457764520800000000000000
+      internalID: 2685965430615599094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 105
+        width: 114
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffd04011df4bcd4f857c7924786b6fe
+      internalID: 944488454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 89
+        width: 140
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164022c678dcfa242b4eba93072627e5
+      internalID: -1898165408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_20
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 88
+        width: 119
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27af2b5ec6efea4c9e9a360bee4f771
+      internalID: -1571238133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_Blubberblasen1_21
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 89
+        width: 118
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500ca3423c50c3249a8ae3eb409583bb
+      internalID: 1053024147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ea7eafe24cbdc0f4091c3a6196b9349f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      FA_Blubberblasen1_0: 8549558329256013978
+      FA_Blubberblasen1_1: 573203425932160678
+      FA_Blubberblasen1_10: 1091570278090382483
+      FA_Blubberblasen1_11: -3379470594605463694
+      FA_Blubberblasen1_12: -7268629261596603136
+      FA_Blubberblasen1_13: 2031938893584663772
+      FA_Blubberblasen1_14: 7936480389106960128
+      FA_Blubberblasen1_15: -4289960800890059710
+      FA_Blubberblasen1_16: 9154198081764725043
+      FA_Blubberblasen1_17: 2685965430615599094
+      FA_Blubberblasen1_18: 944488454
+      FA_Blubberblasen1_19: -1898165408
+      FA_Blubberblasen1_2: -488571834352518940
+      FA_Blubberblasen1_20: -1571238133
+      FA_Blubberblasen1_21: 1053024147
+      FA_Blubberblasen1_3: 3160800294437709698
+      FA_Blubberblasen1_4: 7198425098875334545
+      FA_Blubberblasen1_5: -8881457155797114438
+      FA_Blubberblasen1_6: -5655845567177009056
+      FA_Blubberblasen1_7: -1456675665204976321
+      FA_Blubberblasen1_8: -5647730397078991732
+      FA_Blubberblasen1_9: 5680139136110055265
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

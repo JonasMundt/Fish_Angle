@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 8cbe38923b78d3e4cbaa2df1a50d83d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2464420261756415048
+    second: FA_NeuesSpiel_0
+  - first:
+      213: -1811134717501065552
+    second: FA_NeuesSpiel_1
+  - first:
+      213: 7778805996638438236
+    second: FA_NeuesSpiel_2
+  - first:
+      213: 8604125881042013332
+    second: FA_NeuesSpiel_3
+  - first:
+      213: -1300205985572973576
+    second: FA_NeuesSpiel_4
+  - first:
+      213: -7031514768851425738
+    second: FA_NeuesSpiel_5
+  - first:
+      213: 3756263657668999748
+    second: FA_NeuesSpiel_6
+  - first:
+      213: 3317653015619543001
+    second: FA_NeuesSpiel_7
+  - first:
+      213: -3043857349939715985
+    second: FA_NeuesSpiel_8
+  - first:
+      213: -4098401791351513931
+    second: FA_NeuesSpiel_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FA_NeuesSpiel_0
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 488
+        width: 138
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3dbb834de9ccdd0800000000000000
+      internalID: -2464420261756415048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_NeuesSpiel_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 574
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6b8faf19e8dd6e0800000000000000
+      internalID: -1811134717501065552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_NeuesSpiel_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 169
+        width: 781
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53005e07ded3fb60800000000000000
+      internalID: 7778805996638438236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_NeuesSpiel_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 574
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c0146f6eef76770800000000000000
+      internalID: 8604125881042013332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_NeuesSpiel_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 580
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3161f7b8db4fde0800000000000000
+      internalID: -1300205985572973576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_NeuesSpiel_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 578
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636a2b1829a0b6e90800000000000000
+      internalID: -7031514768851425738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_NeuesSpiel_6
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 560
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44af11625ede02430800000000000000
+      internalID: 3756263657668999748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_NeuesSpiel_7
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 129
+        width: 569
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df910c07dbaa0e20800000000000000
+      internalID: 3317653015619543001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_NeuesSpiel_8
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 576
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60a1e50edb02c5d0800000000000000
+      internalID: -3043857349939715985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FA_NeuesSpiel_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 569
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc1ba7f84d8f17c0800000000000000
+      internalID: -4098401791351513931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FA_NeuesSpiel_0: -2464420261756415048
+      FA_NeuesSpiel_1: -1811134717501065552
+      FA_NeuesSpiel_2: 7778805996638438236
+      FA_NeuesSpiel_3: 8604125881042013332
+      FA_NeuesSpiel_4: -1300205985572973576
+      FA_NeuesSpiel_5: -7031514768851425738
+      FA_NeuesSpiel_6: 3756263657668999748
+      FA_NeuesSpiel_7: 3317653015619543001
+      FA_NeuesSpiel_8: -3043857349939715985
+      FA_NeuesSpiel_9: -4098401791351513931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
