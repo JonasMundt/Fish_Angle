@@ -6,11 +6,11 @@ Catch different fish, sell your catches, upgrade your equipment and explore deep
 
 ## Screenshots
 
-![Fish Angle Gameplay](Screenshots/gameplay.png)
+![Fish Angle Gameplay](Fish_Angle_Screenshot1.png)
 
-![Crystal Zone](Screenshots/crystal-zone.png)
+![Crystal Zone](Fish_Angle_Screenshot2.png)
 
-![Seller Menu](Screenshots/seller-menu.png)
+![Seller Menu](Fish_Angle_Screenshot3.png)
 
 ## Features
 
